@@ -1,3 +1,8 @@
+/* Whole document: */
+body{
+  font-family: Arial;
+}
+
 # Notas sobre investigación reproducible y análisis de datos
 
 ## Reproductibilidad
