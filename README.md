@@ -1,4 +1,4 @@
-# Nostas sobre investigación reproducible y análisis de datos
-\
-## Reproductibilidad
+# **Notas sobre investigación reproducible y análisis de datos**
+
+## **Reproductibilidad**
 
